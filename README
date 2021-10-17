@@ -1,0 +1,13 @@
+eli_fivelzon, aviel.shtern
+Eli Fivelzon (314876665), Aviel Shtern (2062260499)
+EX:3
+
+
+FILES:
+README -- This file.
+Contexts.h -- Header file for contexts objects.
+MapReduceFramework.cpp - An implementation of the framework.
+Barrier.h -- Header file for a barrier.
+Barrier.cpp -- Implementation file for a barrier.
+Makefile -- Makefile for the project.
+
